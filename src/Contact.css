@@ -1,0 +1,18 @@
+#contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 90vh;
+    justify-content: center;
+    background-color: rgb(155, 228, 175);
+    margin-top: 4%;
+
+}
+
+#form{
+    box-shadow: 10px 10px 20px 5px rgb(29, 27, 27);
+    border: 5px solid rgb(2, 84, 76);
+    background-color: rgb(139, 245, 210);
+    border-radius: 35px;
+    padding:20px;
+}

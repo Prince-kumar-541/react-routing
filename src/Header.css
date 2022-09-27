@@ -1,0 +1,32 @@
+.nav-item{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.navbar{
+    box-shadow: 2px 2px 15px rgb(29, 27, 27);
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 50;
+
+}
+
+.opacity:hover{
+    opacity: 0.5;
+    /* background-color: yellow; */
+
+}
+
+@media only screen and (max-width: 500px){
+    .nav-link{
+        margin-left: -16px;
+    }
+}
+*{
+    text-shadow: 6px 6px 14px rgb(58 10 10);
+}
+
+.search1{
+    box-shadow: 6px 6px 6px rgb(2, 62, 34);
+}
